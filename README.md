@@ -1,5 +1,7 @@
 # Ex02 Commercial Website
-## Date:
+
+## Date:29/03/2025
+## Reg no:212223220086
 
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -50,7 +52,7 @@ Deploy the website.
 ### STEP 15
 Upload to GitHub Pages for free hosting.
 
-## PROGRAM
+### PROGRAM:
 
 ## c-website:
 
